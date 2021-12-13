@@ -1,0 +1,14 @@
+tr:hover{
+background-color: blue;
+}
+th{
+    text-align: left;
+}
+td{
+    /*background-color: #ccc;*/
+    padding: 10px;
+}
+/*tr.vit td {
+    background-color: white;
+  }*/
+
